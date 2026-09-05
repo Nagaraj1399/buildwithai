@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Reflection & Journal AI",
+  "description": "Secure, user-authenticated journaling and multi-turn reflection workspace powered by Cloud Firestore and the Gemini 3.6 Flash Resilient Fallback Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
